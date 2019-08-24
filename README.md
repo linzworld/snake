@@ -5,7 +5,7 @@
 找到项目中的 snake/Debug/snake.exe 双击运行即可
 <h2>项目截图</h2>
 <h4>欢迎界面</h4>
-[ 此处为图片加载失败时显示的文字](https://github.com/linzworld/snake/blob/master/image/welcome.jpg)
+![此处为图片加载失败时显示的文字](https://github.com/linzworld/snake/blob/master/image/welcome.jpg)
 <h4>游戏进行中</h4>
 ![image](image/游戏进行中.png)
 <h4>游戏结束</h4>
